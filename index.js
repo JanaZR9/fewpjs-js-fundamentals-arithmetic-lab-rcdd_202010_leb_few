@@ -15,4 +15,4 @@ const mod = x % y;
 
 //4 
 
-let max = 20 ;
+let max = Math.max(1,2,20,9) ;
